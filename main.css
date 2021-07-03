@@ -1,0 +1,47 @@
+nav {
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+  margin-top: 35px;
+  margin-left: 50px;
+  text-transform: uppercase;
+  font-size: 130%;
+}
+
+div > img {
+  width: 25%;
+  position: relative;
+  margin-top: 10%;
+  left: 10%;
+}
+
+.text {
+  margin-left: 50%;
+  font-family: "Space Mono", monospace;
+  margin-top: -300px;
+}
+
+.text h1 {
+  font-size: 380%;
+}
+
+.text p {
+  font-size: 120%;
+}
+
+.text button {
+  background-color: #333333;
+  color: #fff;
+  text-transform: uppercase;
+  width: 35%;
+  height: 70px;
+  margin-top: 5%;
+  font-weight: bold;
+  font-size: 70%;
+  font-style: normal;
+}
+
+footer p {
+  width: 30%;
+  position: rela;
+  margin: 150px auto;
+}
